@@ -8,6 +8,6 @@ As I've grown as a developer, I realized how passionate I am about building solu
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sharif-221987334)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sharif-221987334) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@4sharif) [![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/4sharif.bsky.social) 
 
 ---
