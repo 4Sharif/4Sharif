@@ -1,4 +1,4 @@
-# Hello World
+# Hello World ☼
 
 I enjoy building software projects of all sizes, from small prototypes to full applications. My interests lie in full-stack development, cloud infrastructure, and data analysis. I'm glad to use GitHub for tracking my progress and organizing my work. I’m always looking to improve my skills and gain hands-on experience by building practical tools that serve a clear purpose.
 
