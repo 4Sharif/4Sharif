@@ -12,7 +12,7 @@ Link: https://github.com/4Sharif/Context
 ---
 ## NBA Player Efficiency Model ⌘
 
-This **NBA PER Prediction Model** is a data mining and machine learning project that estimates Player Efficiency Rating (PER) using real NBA statistics. Built with Python, the model leverages over a decade of player data and uses linear regression to achieve an R² of 0.95. It includes a prediction tool for test cases. Also, feature importance analysis was added to highlight impactful stats. 
+This **NBA PER Prediction Model** is a data mining and machine learning project that estimates Player Efficiency Rating (PER) using real NBA statistics. Built with Python, the model leverages over a decade of player data and uses linear regression to achieve an R² of 95%. It includes a prediction tool for test cases. Also, feature importance analysis was added to highlight impactful stats. 
 
 Link: https://github.com/4Sharif/PER-Prediction-Model
 
