@@ -3,7 +3,7 @@
 I enjoy building projects of all sizes, from small prototypes to full applications. My interests lie in software, data, and cloud engineering. I'm glad to use GitHub for tracking my progress and organizing my work. I’m always looking to improve my skills and gain hands-on experience by building practical tools that serve a clear purpose.
 
 ---
-## Context ❍
+## Context ©
 
 **Context** is a collaborative code editor application that lets users write, compile, and share code in real time. It supports versioning, document sharing, user authentication, compiler integration across multiple languages, and more. Built with React and Firebase, it provides an IDE-like experience directly in the browser, making it ideal for learning, collaboration, and team-based coding projects.
 
